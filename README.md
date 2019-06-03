@@ -1,1 +1,1 @@
-# TopologyRuleMustNotHaveDuplicatesPoint
+# TopologyRuleMustBeDisjointPoint
